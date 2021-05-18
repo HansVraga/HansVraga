@@ -1,4 +1,12 @@
 ### Hi there 👋
+My name is Hans Vraga. I maintain 
+
+![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fhans_vraga) and <br />
+
+[![image of linked](https://icon-library.com/images/linkedin-logo-icon/linkedin-logo-icon-5.jpg)](https://www.linkedin.com/in/hansvraga/) <br />
+
+profiles. I work with the United States Geological Survey for the Web Informatics and Mapping team.
+![Website](https://img.shields.io/website?down_message=offline&label=WIM&logo=WIM&style=for-the-badge&up_message=online&url=https%3A%2F%2Fwim.usgs.gov)
 
 <!--
 **HansVraga/HansVraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
