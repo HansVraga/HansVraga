@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Hans Vraga. I maintain 
 
-![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fhans_vraga) and <br />
+[![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https://twitter.com/hans_vraga)](https://twitter.com/hans_vraga) and <br />
 
 [![image of linked](https://icon-library.com/images/linkedin-logo-icon/linkedin-logo-icon-5.jpg)](https://www.linkedin.com/in/hansvraga/) <br />
 
